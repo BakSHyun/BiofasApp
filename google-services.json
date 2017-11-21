@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "671096069432",
+    "firebase_url": "https://biogcm-185509.firebaseio.com",
+    "project_id": "biogcm-185509",
+    "storage_bucket": "biogcm-185509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671096069432:android:70b12bcd46b74c40",
+        "android_client_info": {
+          "package_name": "com.hyun.bioface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671096069432-u8vcr3kcnlmrs965b1lm2defa41htgpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyun.bioface",
+            "certificate_hash": "4879e9ba718d16a466663cbfd4c086ce42248e73"
+          }
+        },
+        {
+          "client_id": "671096069432-50llerednhfrrgg75uoqjp6jniub3o3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgEy8PNvRCx7Y6HtkbjX3pCOiNTZztsrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671096069432-50llerednhfrrgg75uoqjp6jniub3o3a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671096069432-fkm7k0nbnhlgd252dgbi9u7cpqcl1mfe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hyun.bioface"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

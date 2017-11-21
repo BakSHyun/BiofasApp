@@ -1,0 +1,28 @@
+{
+  "name": "com.hyun.bioface",
+  "version": "1.0.0",
+  "displayName": "BIOFACE",
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-console": {},
+      "cordova-plugin-statusbar": {},
+      "cordova-plugin-fcm-config": {},
+      "cordova-plugin-fcm": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "^6.4.0",
+    "cordova-ios": "^4.5.4",
+    "cordova-plugin-console": "~1.0.1",
+    "cordova-plugin-fcm": "~2.1.2",
+    "cordova-plugin-fcm-config": "cordova-plugin-fcm-config",
+    "cordova-plugin-firebase-realtime-database": "0.0.2",
+    "cordova-plugin-statusbar": "~1.0.1",
+    "cordova-plugin-whitelist": "~1.2.0"
+  }
+}

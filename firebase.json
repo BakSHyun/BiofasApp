@@ -1,0 +1,19 @@
+{
+  "hosting": {
+    // Add the "redirects" section within "hosting"
+    "redirects": [ {
+      "source" : "/foo",
+      "destination" : "/bar",
+      "type" : 301
+    }, {
+      "source" : "/firebase/*",
+      "destination" : "https://firebase.google.com",
+      "type" : 302
+    } ],
+    // Add the "rewrites" section within "hosting"
+    "rewrites": [ {
+      "source": "**",
+      "destination": "/index.html"
+    } ]
+  }
+}
